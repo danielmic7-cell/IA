@@ -1,3 +1,4 @@
+#Se agrego esta linea al inicio del archivo
 rm(list=ls())
 #cargar librerias  readlx, dplyr, tidyverse
 library(readxl)
